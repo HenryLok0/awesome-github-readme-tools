@@ -42,6 +42,7 @@
 - [Custom Badges](https://custom-badges.vercel.app/) - Create custom badges with various styles and colors
 - [Badgen](https://badgen.net/) - Fast badge generating service
 - [Version Badge](https://github.com/RichardLitt/version-badge) - Generate version badges for your projects
+- [Github Button Generator](https://monapdx.github.io/Github-Tools/github-button-generator.html) - Create Shields.io badge buttons with Markdown, HTML, and direct URLs.
 
 ### Dynamic Badges
 - [GitHub Workflow Status](https://github.com/actions/toolkit) - Show your GitHub Actions workflow status
@@ -95,6 +96,7 @@
 - [AI README Generator](https://github.com/maurodesouza/ai-readme-generator) - Generate README using AI
 - [DocToc](https://github.com/thlorenz/doctoc) - Generate table of contents for markdown files
 - [Markdown TOC](https://github.com/jonschlinkert/markdown-toc) - Generate a markdown TOC for any markdown file
+- [README Table of Contents Generator](https://monapdx.github.io/Github-Tools/github-anchor-generator.html) - Generate a table of contents and copyable anchor links from any markdown file
 
 ## Dynamic Content
 
