@@ -41,7 +41,6 @@
 - [Simple Icons](https://simpleicons.org/) - Free SVG icons for popular brands
 - [Custom Badges](https://custom-badges.vercel.app/) - Create custom badges with various styles and colors
 - [Badgen](https://badgen.net/) - Fast badge generating service
-- [Version Badge](https://github.com/RichardLitt/version-badge) - Generate version badges for your projects
 
 ### Dynamic Badges
 - [GitHub Workflow Status](https://github.com/actions/toolkit) - Show your GitHub Actions workflow status
@@ -57,8 +56,6 @@
 - [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - Count profile views and display them in your README
 - [Profile Views Counter](https://github.com/arturssmirnovs/github-profile-views-counter) - Simple profile view counter
 - [Visitor Badge](https://visitor-badge.glitch.me/) - Display visitor count badge
-- [Count Profile Views](https://github.com/thepiyushmalhotra/count-profile-views) - Profile view counter with analytics
-- [Profile Counter](https://github.com/sagar-viradiya/eazyprofiler) - Simple and elegant profile view counter
 - [Hits](https://hits.seeyoufarm.com/) - Hit counter badge for any webpage including GitHub profiles
 - [Profile Readme Visitor Count](https://github.com/jwenjian/visitor-badge) - Customizable visitor count badge
 
@@ -69,7 +66,6 @@
 - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile README
 - [Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph) - Dynamically generated activity graph
 - [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - Display your total contributions and streak
-- [Profile Details](https://github.com/tapajyoti-bose/Profile-Details-Generator) - Generate detailed GitHub profile statistics
 - [GitHub Stats Transparent](https://github.com/rahul-jha98/github-stats-transparent) - Transparent GitHub stats cards
 - [Productive Box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours
 - [GitHub Wrapped](https://github.com/neat-run/wrapped) - Get insights from your GitHub activity
@@ -92,7 +88,6 @@
 - [README Template](https://github.com/othneildrew/Best-README-Template) - Best README template
 - [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [Readme Generator](https://github.com/kefranabg/readme-md-generator) - CLI that generates beautiful README.md files
-- [AI README Generator](https://github.com/maurodesouza/ai-readme-generator) - Generate README using AI
 - [DocToc](https://github.com/thlorenz/doctoc) - Generate table of contents for markdown files
 - [Markdown TOC](https://github.com/jonschlinkert/markdown-toc) - Generate a markdown TOC for any markdown file
 
@@ -104,7 +99,6 @@
 - [Recent Activity](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any source
 - [Chess.com Stats](https://github.com/Balastrong/chess-stats-action) - Display your Chess.com statistics
-- [Steam Stats](https://github.com/YS-L/steambadges) - Show your Steam gaming statistics
 - [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify listening activity
 - [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - Generate activity graph for your profile
 - [Random Joke](https://github.com/ABSphreak/readme-jokes) - Display random programming jokes in your README
@@ -118,14 +112,12 @@
 
 ## Social Media Integration
 
-- [Twitter Badge](https://github.com/kentcdodds/twitter-badge) - Twitter follow badge for GitHub
 - [LinkedIn Badge](https://shields.io/badges/linked-in) - LinkedIn connection badge
 - [YouTube Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Display YouTube stats in your README
 - [Dev.to Posts](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest Dev.to posts
 
 ## Technology Stacks
 
-- [Tech Stack Generator](https://github.com/0xabdulkhalid/readme-tech-stack) - Generate tech stack section for README
 - [Skill Icons](https://skillicons.dev/) - Showcase your skills with beautiful icons
 - [Icon Generator](https://github.com/tandpfun/skill-icons) - Beautiful skill icons for your GitHub README
 - [Tech Stack Icons](https://github.com/get-icon/geticon) - Free tech stack icons for your projects
@@ -137,7 +129,6 @@
 
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - Dynamically generated, customizable SVG typing effect
 - [Typing SVG](https://readme-typing-svg.herokuapp.com/) - Online generator for typing SVG
-- [GitHub Readme Terminal](https://github.com/k4ustu3h/readme-terminal) - Terminal-like typing effect
 
 ## Widgets and Embeds
 
@@ -145,12 +136,8 @@
 - [Snake Game](https://github.com/Platane/snk) - Generates a snake game from your GitHub contribution graph
 - [CodersRank](https://codersrank.io/) - Coding activity and skills widget
 - [LeetCode Stats](https://github.com/KnlnKS/leetcode-stats) - LeetCode stats for your GitHub profile
-- [HackerRank Badge](https://github.com/huchenme/github-readme-hackerrank) - Display HackerRank badges in your README
-- [Codewars Badge](https://github.com/justingolden21/codewars-badge-generator) - Generate Codewars rank badges
 - [Quote Generator](https://github.com/shravan20/github-readme-quotes) - Display inspirational quotes in your README
 - [Meme Generator](https://github.com/techytushar/random-memer) - Add random programming memes to your profile
-- [Weather Widget](https://github.com/Galactica-corp/weather-readme) - Display current weather in your location
-- [Animated Profile](https://github.com/DwinaTech/awesome-github-profile-readme-templates) - Collection of animated profile templates
 
 ## CLI Tools
 
@@ -159,9 +146,6 @@
 - [Inquirer README Generator](https://github.com/connietran-dev/readme-generator) - Command-line application for README generation
 - [GitHub CLI](https://cli.github.com/) - Official GitHub command line tool
 - [Hub](https://github.com/github/hub) - Command-line wrapper for git that makes it easier to work with GitHub
-- [README Generator CLI](https://github.com/scottydocs/readme-generator) - Interactive CLI README generator
-- [Yeoman README Generator](https://github.com/facundofarias/generator-readme) - Yeoman generator for README files
-- [README CLI](https://github.com/RichardLitt/readme-cli) - CLI for generating README files
 
 ## IDE Extensions
 
@@ -187,19 +171,8 @@
 
 - [GitHub Activity Animations](https://github.com/Readme-Workflows/recent-activity) - Animated recent activity for your profile
 - [Animated Text](https://github.com/DenverCoder1/readme-typing-svg) - Create animated typing text for your README
-- [Profile GIF Generator](https://github.com/sp-xd/animated-github-badges) - Generate animated badges for your profile
 - [ASCII Art Generator](https://github.com/sepandhaghighi/art) - Generate ASCII art for your README
 - [Matrix Rain](https://github.com/nwtgck/gh-card) - Matrix-style animation for your profile
-- [Animated Contributions](https://github.com/Platane/contribution-graph-animation) - Animate your contribution graph
-
-## Real-time Data
-
-- [COVID-19 Stats](https://github.com/covid19-dashboard/covid19-dashboard) - Display real-time COVID-19 statistics
-- [Crypto Prices](https://github.com/Aveek-Saha/Crypto-Tracker-Action) - Track cryptocurrency prices in your README
-- [Stock Prices](https://github.com/Aveek-Saha/Stock-Tracker-Action) - Display stock market data
-- [Weather Data](https://github.com/Aveek-Saha/Weather-Action) - Show current weather conditions
-- [ISS Location](https://github.com/Aveek-Saha/ISS-Tracker) - Track International Space Station location
-- [News Headlines](https://github.com/Aveek-Saha/News-Action) - Display latest news headlines
 
 ## Contributing
 
