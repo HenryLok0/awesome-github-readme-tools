@@ -136,6 +136,7 @@
 - [Snake Game](https://github.com/Platane/snk) - Generates a snake game from your GitHub contribution graph
 - [CodersRank](https://codersrank.io/) - Coding activity and skills widget
 - [LeetCode Stats](https://github.com/KnlnKS/leetcode-stats) - LeetCode stats for your GitHub profile
+- [Mini-Tools.uk Image Hosting](https://mini-tools.uk/upload?utm_source=github&utm_medium=readme&utm_campaign=image-hosting) - Generate Direct URL, Markdown, HTML and BBCode links for GitHub README screenshots and image embeds.
 - [Quote Generator](https://github.com/shravan20/github-readme-quotes) - Display inspirational quotes in your README
 - [Meme Generator](https://github.com/techytushar/random-memer) - Add random programming memes to your profile
 
