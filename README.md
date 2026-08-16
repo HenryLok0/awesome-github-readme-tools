@@ -70,6 +70,7 @@
 - [Productive Box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours
 - [GitHub Wrapped](https://github.com/neat-run/wrapped) - Get insights from your GitHub activity
 - [GitHub PR Stats Action](https://github.com/marketplace/actions/github-pr-stats-action) - Creates shareable images of your pull request contributions to organizations and repositories
+- [GitHub README Insight Terminal ASCII](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) - Terminal-styled SVG cards (contribution graph, stats, top languages, neofetch) for your GitHub README, themed as macOS/Windows/Ubuntu terminals.
 
 ## Profile Generators
 
