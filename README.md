@@ -35,6 +35,7 @@
 
 ### Static Badges
 - [Shields.io](https://shields.io/) - Service for creating SVG badges for your projects
+- [terminal-shields](https://github.com/seuthootDev/terminal-shields) - Shields-style neon terminal one-liner SVG badges (static + live GitHub/npm)
 - [md-badges](https://github.com/inttter/md-badges) - Collection of badges/shields for your personal developer branding
 - [Badge Generator](https://badge-generator.org/) - Create custom badges for any purpose
 - [For the Badge](https://forthebadge.com/) - Collection of unique and fun badges
