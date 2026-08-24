@@ -140,6 +140,8 @@
 - [Mini-Tools.uk Image Hosting](https://mini-tools.uk/upload?utm_source=github&utm_medium=readme&utm_campaign=image-hosting) - Generate Direct URL, Markdown, HTML and BBCode links for GitHub README screenshots and image embeds.
 - [Quote Generator](https://github.com/shravan20/github-readme-quotes) - Display inspirational quotes in your README
 - [Meme Generator](https://github.com/techytushar/random-memer) - Add random programming memes to your profile
+- [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac) - Generate zodiac-themed SVG profile cards from your GitHub activity.
+- [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - Generate Asian zodiac (十二生肖) SVG profile cards from your GitHub activity.
 
 ## CLI Tools
 
