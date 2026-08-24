@@ -67,6 +67,7 @@
 - [Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph) - Dynamically generated activity graph
 - [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - Display your total contributions and streak
 - [GitHub Stats Transparent](https://github.com/rahul-jha98/github-stats-transparent) - Transparent GitHub stats cards
+- [GitHub Stats xCards](https://github.com/LuiisDev21/gh-stats-xcards) - Gamified SVG stats cards: level & XP ranks, streaks, contribution graph, top languages
 - [Productive Box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours
 - [GitHub Wrapped](https://github.com/neat-run/wrapped) - Get insights from your GitHub activity
 - [GitHub PR Stats Action](https://github.com/marketplace/actions/github-pr-stats-action) - Creates shareable images of your pull request contributions to organizations and repositories
@@ -141,6 +142,8 @@
 - [Mini-Tools.uk Image Hosting](https://mini-tools.uk/upload?utm_source=github&utm_medium=readme&utm_campaign=image-hosting) - Generate Direct URL, Markdown, HTML and BBCode links for GitHub README screenshots and image embeds.
 - [Quote Generator](https://github.com/shravan20/github-readme-quotes) - Display inspirational quotes in your README
 - [Meme Generator](https://github.com/techytushar/random-memer) - Add random programming memes to your profile
+- [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac) - Generate zodiac-themed SVG profile cards from your GitHub activity.
+- [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - Generate Asian zodiac (十二生肖) SVG profile cards from your GitHub activity.
 
 ## CLI Tools
 
