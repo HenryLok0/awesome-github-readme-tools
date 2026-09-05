@@ -66,6 +66,7 @@
 - [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile README
 - [Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph) - Dynamically generated activity graph
+- [Deus Commit Chart](https://github.com/dturovskiy/deus-commit-chart) - Generate static 30/90/365-day GitHub contribution charts as README-safe SVGs without a live third-party rendering backend.
 - [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - Display your total contributions and streak
 - [GitHub Stats Transparent](https://github.com/rahul-jha98/github-stats-transparent) - Transparent GitHub stats cards
 - [GitHub Stats xCards](https://github.com/LuiisDev21/gh-stats-xcards) - Gamified SVG stats cards: level & XP ranks, streaks, contribution graph, top languages
