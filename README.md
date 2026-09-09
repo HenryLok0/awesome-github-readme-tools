@@ -77,6 +77,7 @@
 
 ## Profile Generators
 
+- [CoolREADME](https://coolreadme.xyz) - Build a GitHub profile README from customizable live SVG cards, with Markdown ready to copy.
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Generate GitHub profile README easily
 - [GPRM](https://gprm.itsvg.in/) - GitHub Profile README Maker
 - [Profile README Generator](https://profile-readme-generator.com/) - Create your profile README in a few clicks
