@@ -129,6 +129,7 @@
 - [DevIcon](https://devicon.dev/) - Set of icons representing programming languages and tools
 - [Stack Overflow Card](https://github.com/omidnikrah/github-readme-stackoverflow) - Display your Stack Overflow stats
 - [Programming Languages Usage](https://github.com/madushadhanushka/github-readme) - Show programming language usage statistics
+- [Credly-IMG](https://credly-img.tugal.be/) - Generate images from Credly digital badges
 
 ## Typing Effects
 
