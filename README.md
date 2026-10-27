@@ -120,6 +120,7 @@
 - [LinkedIn Badge](https://shields.io/badges/linked-in) - LinkedIn connection badge
 - [YouTube Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Display YouTube stats in your README
 - [Dev.to Posts](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest Dev.to posts
+- [Readme X Cards](https://github.com/seuthootDev/readme-x-cards) - X (Twitter) profile, latest post and multi-post cards as SVG, with six themes and light/dark mode.
 
 ## Technology Stacks
 
