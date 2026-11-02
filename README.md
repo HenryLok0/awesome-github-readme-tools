@@ -137,6 +137,7 @@
 
 ## Widgets and Embeds
 
+- [GitHub Planet](https://github.com/nitr0yukkuri/githubplanet) - Turn GitHub activity into an interactive 3D planet card and animated GIF for profile READMEs.
 - [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - 3D GitHub contribution graph
 - [Snake Game](https://github.com/Platane/snk) - Generates a snake game from your GitHub contribution graph
 - [CodersRank](https://codersrank.io/) - Coding activity and skills widget
