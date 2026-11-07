@@ -180,6 +180,7 @@
 - [GitHub Activity Animations](https://github.com/Readme-Workflows/recent-activity) - Animated recent activity for your profile
 - [Animated Text](https://github.com/DenverCoder1/readme-typing-svg) - Create animated typing text for your README
 - [ASCII Art Generator](https://github.com/sepandhaghighi/art) - Generate ASCII art for your README
+- [ASCII Images](https://ascii-images.com/) - Create ASCII images, FIGlet text banners and plain-text diagrams for README code blocks in the browser.
 - [Matrix Rain](https://github.com/nwtgck/gh-card) - Matrix-style animation for your profile
 
 ## Contributing
