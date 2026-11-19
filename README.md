@@ -181,6 +181,7 @@
 - [Animated Text](https://github.com/DenverCoder1/readme-typing-svg) - Create animated typing text for your README
 - [ASCII Art Generator](https://github.com/sepandhaghighi/art) - Generate ASCII art for your README
 - [Matrix Rain](https://github.com/nwtgck/gh-card) - Matrix-style animation for your profile
+- [Contribution FX](https://github.com/Sur1ive/contribution-fx) - Turn your contribution graph into animated SVG art: candlestick charts, Game of Life, neon, constellations and more.
 
 ## Contributing
 
