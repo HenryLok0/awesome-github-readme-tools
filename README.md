@@ -72,6 +72,7 @@
 - [GitHub Stats xCards](https://github.com/LuiisDev21/gh-stats-xcards) - Gamified SVG stats cards: level & XP ranks, streaks, contribution graph, top languages
 - [Productive Box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours
 - [GitHub Wrapped](https://github.com/neat-run/wrapped) - Get insights from your GitHub activity
+- [Yearcap GitHub Year](https://yearcap.co/github) - Your public GitHub year as a story plus a README card: contributions, longest streak, best month and top languages.
 - [GitHub PR Stats Action](https://github.com/marketplace/actions/github-pr-stats-action) - Creates shareable images of your pull request contributions to organizations and repositories
 - [gh-stats](https://github.com/ShayManor/github-readme-stats) - Self-hostable stats cards and widgets, with a hosted renderer at gh-stats.com
 
